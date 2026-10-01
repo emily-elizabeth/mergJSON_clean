@@ -1,0 +1,3 @@
+#!/bin/bash
+export SYMBOLS=_getXtable
+sh "$LIVECODE_SDKROOT/tools/lclink.sh"

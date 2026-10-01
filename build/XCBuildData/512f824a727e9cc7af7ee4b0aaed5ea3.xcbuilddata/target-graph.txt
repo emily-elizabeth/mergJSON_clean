@@ -1,0 +1,4 @@
+Target dependency graph (3 targets)
+Target 'mergJSON-iOS' in project 'mergJSON' (no dependencies)
+Target 'mergJSON-Server' in project 'mergJSON' (no dependencies)
+Target 'mergJSON-OSX' in project 'mergJSON' (no dependencies)
